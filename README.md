@@ -27,6 +27,7 @@ __Constraints:__
 - Ensure that the implementation follows object-oriented design principles and promotes loose coupling between the news agency and subscribers.
 
 # UML Class Diagram
-![part 2](https://github.com/JamesManalili/Observer_Pattern/assets/142465145/097517f6-c613-476e-a392-7708c3729984)
+![ObserverPatternUML](https://github.com/JamesManalili/Observer_Pattern/assets/142465145/8a600cee-5de0-4579-a151-20929102f92e)
+
 
 
